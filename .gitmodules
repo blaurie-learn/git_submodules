@@ -1,0 +1,3 @@
+[submodule "extern/blib"]
+	path = extern/blib
+	url = git@github.com:blaurie/blib
